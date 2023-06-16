@@ -1,6 +1,5 @@
 # Pillow-Palloza-Market-Success-Analysis
 
-Toolset: SQL, Spreadsheets and Tableau
 The interactive executive dashboard can be found [here](https://public.tableau.com/app/profile/adaobi.okafor/viz/AirbnbShort-termRentals/Dashboard2).** 
 
 Summary: Manhattan and Brooklyn are the best locations for success in the New York short-term rentals market, regardless of the specific property types being considered.
